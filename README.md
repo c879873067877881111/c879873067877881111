@@ -12,9 +12,10 @@
   **Database**
   - PostgreSQL / MySQL / MongoDB / Redis
 
-  **IoT & Data**                                                                                                                                   - Python                         
+  **IoT & Data**       
+  - Python
   - Modbus TCP/IP Data Collection
-  - MQTT Protocol                                                                                                                                                          
+  - MQTT Protocol           
   - Prometheus + Grafana Monitoring                                                                                                                                      
 
   **DevOps**
