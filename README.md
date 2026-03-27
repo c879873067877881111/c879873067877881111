@@ -8,12 +8,11 @@
   - Java 17+ / Spring Boot 3.x / Spring Security
   - MyBatis / JPA
   - REST API Design
-  - Python / Flask
 
   **Database**
   - PostgreSQL / MySQL / MongoDB / Redis
 
-  **IoT & Data**                                                                                                                                                           
+  **IoT & Data**                                                                                                                                   - Python                         
   - Modbus TCP/IP Data Collection
   - MQTT Protocol                                                                                                                                                          
   - Prometheus + Grafana Monitoring                                                                                                                                      
