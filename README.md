@@ -30,9 +30,10 @@ Backend Engineer with hands-on experience in energy management systems and IoT d
 
 **Mobile & Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,ts,nextjs" height="40" alt="React, TypeScript, Next.js" align="middle" />
+<img src="https://skillicons.dev/icons?i=react,ts,nextjs,vite,html,css" height="40" alt="React, TypeScript, Next.js, Vite, HTML, CSS" align="middle" />
 
 - React Native (Expo) · React / Next.js / TypeScript
+- Vite · HTML / CSS
 
 **DevOps**
 
