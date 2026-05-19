@@ -1,28 +1,61 @@
-# Hi, I'm Yan-Ting Yang
+# Hi, I'm Yan-Ting Yang ヾ(＾-＾)ノ
 
 Backend Engineer with hands-on experience in energy management systems and IoT data pipelines.
 
 ## Tech Stack
 
 **Backend**
-- Java 17+ / Spring Boot 3.x / Spring Security
-- MyBatis / JPA
-- REST API Design
+
+<img src="https://skillicons.dev/icons?i=java,spring" height="40" alt="Java, Spring Boot" style="vertical-align:middle" />
+<img src="https://cdn.simpleicons.org/springsecurity" height="30" alt="Spring Security" style="vertical-align:middle;padding:0 3px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" height="30" alt="Hibernate / JPA" style="vertical-align:middle;padding:0 3px" />
+<img src="https://cdn.simpleicons.org/jsonwebtokens" height="30" alt="JWT" style="vertical-align:middle;padding:0 3px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="30" alt="OpenAPI / Swagger" style="vertical-align:middle;padding:0 3px" />
+
+- Java 11–17+ / Spring Boot 2.x–3.x / Spring Security
+- MyBatis / Spring JDBC / Spring Data JPA · JWT & Session-Cookie Authentication
+- Lombok / springdoc-openAPI · REST API Design
 
 **Database**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" height="40" alt="PostgreSQL, MySQL, MongoDB, Redis" style="vertical-align:middle" />
+
 - PostgreSQL / MySQL / MongoDB / Redis
 
-**IoT & Data**
+**IoT & Data Engineering**
+
+<img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" style="vertical-align:middle" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" height="30" alt="Apache Airflow" style="vertical-align:middle;padding:0 3px" />
+<img src="https://skillicons.dev/icons?i=prometheus,grafana,selenium" height="40" alt="Prometheus, Grafana, Selenium" style="vertical-align:middle" />
+<img src="https://cdn.simpleicons.org/mqtt" height="30" alt="MQTT" style="vertical-align:middle;padding:0 3px" />
+
 - Python
-- Modbus TCP/IP Data Collection
-- MQTT Protocol
+- Modbus TCP/IP Data Collection · MQTT Protocol (paho-mqtt)
 - Apache Airflow (ETL Pipeline)
 - Prometheus + Grafana Monitoring
+- Selenium / BeautifulSoup Web Scraping
+
+**Mobile & Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,ts,nextjs" height="40" alt="React, TypeScript, Next.js" style="vertical-align:middle" />
+
+- React Native (Expo) · React / Next.js / TypeScript
 
 **DevOps**
+
+<img src="https://skillicons.dev/icons?i=docker,nginx,githubactions,gcp" height="40" alt="Docker, Nginx, GitHub Actions, GCP" style="vertical-align:middle" />
+
 - Docker / Docker Compose
+- Nginx Reverse Proxy
 - GitHub Actions CI/CD
 - GCP Cloud Deployment
+
+**Testing**
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" height="30" alt="JUnit" style="vertical-align:middle;padding:0 3px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="30" alt="Jest" style="vertical-align:middle;padding:0 3px" />
+
+- JUnit 5 · Testcontainers · Jest
 
 ## Projects
 
