@@ -6,11 +6,7 @@ Backend Engineer with hands-on experience in energy management systems and IoT d
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=java,spring" height="40" alt="Java, Spring Boot" align="middle" />
-<img src="https://cdn.simpleicons.org/springsecurity" height="30" alt="Spring Security" align="middle" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" height="30" alt="Hibernate / JPA" align="middle" />
-<img src="https://cdn.simpleicons.org/jsonwebtokens" height="30" alt="JWT" align="middle" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="30" alt="OpenAPI / Swagger" align="middle" />
+<img src="https://skillicons.dev/icons?i=java,spring" height="40" alt="Java, Spring Boot" align="middle" /> <img src="https://cdn.simpleicons.org/springsecurity" height="30" alt="Spring Security" align="middle" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" height="30" alt="Hibernate / JPA" align="middle" /> <img src="https://cdn.simpleicons.org/jsonwebtokens" height="30" alt="JWT" align="middle" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="30" alt="OpenAPI / Swagger" align="middle" />
 
 - Java 11–17+ / Spring Boot 2.x–3.x / Spring Security
 - MyBatis / Spring JDBC / Spring Data JPA · JWT & Session-Cookie Authentication
@@ -24,10 +20,7 @@ Backend Engineer with hands-on experience in energy management systems and IoT d
 
 **IoT & Data Engineering**
 
-<img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" align="middle" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" height="30" alt="Apache Airflow" align="middle" />
-<img src="https://skillicons.dev/icons?i=prometheus,grafana,selenium" height="40" alt="Prometheus, Grafana, Selenium" align="middle" />
-<img src="https://cdn.simpleicons.org/mqtt" height="30" alt="MQTT" align="middle" />
+<img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" align="middle" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" height="30" alt="Apache Airflow" align="middle" /> <img src="https://skillicons.dev/icons?i=prometheus,grafana,selenium" height="40" alt="Prometheus, Grafana, Selenium" align="middle" /> <img src="https://cdn.simpleicons.org/mqtt" height="30" alt="MQTT" align="middle" />
 
 - Python
 - Modbus TCP/IP Data Collection · MQTT Protocol (paho-mqtt)
@@ -52,8 +45,7 @@ Backend Engineer with hands-on experience in energy management systems and IoT d
 
 **Testing**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" height="30" alt="JUnit" align="middle" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="30" alt="Jest" align="middle" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" height="30" alt="JUnit" align="middle" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="30" alt="Jest" align="middle" />
 
 - JUnit 5 · Testcontainers · Jest
 
