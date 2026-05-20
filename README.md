@@ -22,7 +22,7 @@ Backend Engineer with hands-on experience in energy management systems and IoT d
 
 <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" align="middle" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" height="30" alt="Apache Airflow" align="middle" /> <img src="https://skillicons.dev/icons?i=prometheus,grafana,selenium" height="40" alt="Prometheus, Grafana, Selenium" align="middle" /> <img src="https://cdn.simpleicons.org/mqtt" height="30" alt="MQTT" align="middle" />
 
-- Python
+- Python · Requests (HTTP Client)
 - Modbus TCP/IP Data Collection · MQTT Protocol (paho-mqtt)
 - Apache Airflow (ETL Pipeline)
 - Prometheus + Grafana Monitoring
