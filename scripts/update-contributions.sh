@@ -8,11 +8,19 @@ set -euo pipefail
 owner="${1:?usage: update-contributions.sh <owner> [readme]}"
 readme="${2:-README.md}"
 
+# Repositories to keep out of the list, as owner/name.
+excluded_repos=(
+	five-million-SE-union/five-million-rbac-server
+)
+
+excluded_json=$(printf '%s\n' "${excluded_repos[@]}" | jq -R . | jq -s .)
+
 json=$(gh search prs --author "$owner" --limit 100 \
 	--json repository,number,title,url,createdAt)
 
-entries=$(printf '%s' "$json" | jq -r --arg owner "$owner" '
+entries=$(printf '%s' "$json" | jq -r --arg owner "$owner" --argjson excluded "$excluded_json" '
 	map(select(.repository.nameWithOwner | startswith($owner + "/") | not))
+	| map(select(.repository.nameWithOwner as $repo | $excluded | index($repo) | not))
 	| sort_by(.createdAt) | reverse
 	| .[]
 	| "- [\(.repository.nameWithOwner)#\(.number)](\(.url)) " +

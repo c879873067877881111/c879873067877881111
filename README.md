@@ -25,5 +25,4 @@ Backend Engineer | DevOps
 - [gin-gonic/gin#4739](https://github.com/gin-gonic/gin/pull/4739) ![state](https://img.shields.io/github/pulls/detail/state/gin-gonic/gin/4739?label=) — test(utils): cover EncodeToken error path in H.MarshalXML
 - [gin-gonic/examples#199](https://github.com/gin-gonic/examples/pull/199) ![state](https://img.shields.io/github/pulls/detail/state/gin-gonic/examples/199?label=) — fix: remove drain loop that leaks SSE clients on disconnect
 - [gin-contrib/secure#74](https://github.com/gin-contrib/secure/pull/74) ![state](https://img.shields.io/github/pulls/detail/state/gin-contrib/secure/74?label=) — fix: keep includeSubdomains when STSPreload is enabled
-- [five-million-SE-union/five-million-rbac-server#4](https://github.com/five-million-SE-union/five-million-rbac-server/pull/4) ![state](https://img.shields.io/github/pulls/detail/state/five-million-SE-union/five-million-rbac-server/4?label=) — refactor: 修復 SonarQube 掃描的 code smell（BLOCKER/CRITICAL 全清）
 <!-- contributions:end -->
