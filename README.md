@@ -19,6 +19,7 @@ Backend Engineer | DevOps
 ## Open Source Contributions
 
 <!-- contributions:start -->
+- [ory/terraform-provider-ory#325](https://github.com/ory/terraform-provider-ory/pull/325) ![state](https://img.shields.io/github/pulls/detail/state/ory/terraform-provider-ory/325?label=) — fix: remove project, workspace, organization, and project config from state when deleted outside Terraform
 - [ory/terraform-provider-ory#318](https://github.com/ory/terraform-provider-ory/pull/318) ![state](https://img.shields.io/github/pulls/detail/state/ory/terraform-provider-ory/318?label=) — fix: remove OAuth2 client, OIDC dynamic client, and trusted JWT issuer from state when deleted outside Terraform
 - [kubernetes/minikube#23397](https://github.com/kubernetes/minikube/pull/23397) ![state](https://img.shields.io/github/pulls/detail/state/kubernetes/minikube/23397?label=) — Return an error when image build fails on some profiles
 - [elastic/go-elasticsearch#1555](https://github.com/elastic/go-elasticsearch/pull/1555) ![state](https://img.shields.io/github/pulls/detail/state/elastic/go-elasticsearch/1555?label=) — fix: make BulkIndexer.Close idempotent
