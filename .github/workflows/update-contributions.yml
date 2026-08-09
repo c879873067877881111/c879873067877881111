@@ -2,8 +2,10 @@ name: Update contributions
 
 on:
   schedule:
-    # Daily at 03:00 UTC (11:00 Taipei).
-    - cron: "0 3 * * *"
+    # Hourly. A PR opened elsewhere shows up within the hour instead of waiting
+    # for the next day; the job exits without committing when nothing changed,
+    # so the quiet runs cost a single API call and leave no commit behind.
+    - cron: "0 * * * *"
   workflow_dispatch:
 
 permissions:
