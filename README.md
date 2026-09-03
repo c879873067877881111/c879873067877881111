@@ -19,6 +19,7 @@ Backend Engineer | DevOps
 ## Open Source Contributions
 
 <!-- contributions:start -->
+- [open-policy-agent/java-opa-sdk#216](https://github.com/open-policy-agent/java-opa-sdk/pull/216) ![state](https://img.shields.io/github/pulls/detail/state/open-policy-agent/java-opa-sdk/216?label=) — fix(metrics): implement SimpleMetrics counter and histogram
 - [docker/cli#7213](https://github.com/docker/cli/pull/7213) ![state](https://img.shields.io/github/pulls/detail/state/docker/cli/7213?label=) — cli/command/registry: fix "docker logout docker.io" leaving credentials behind
 - [gin-contrib/timeout#88](https://github.com/gin-contrib/timeout/pull/88) ![state](https://img.shields.io/github/pulls/detail/state/gin-contrib/timeout/88?label=) — fix: restore original writer so unmatched routes still return 404
 - [ory/terraform-provider-ory#325](https://github.com/ory/terraform-provider-ory/pull/325) ![state](https://img.shields.io/github/pulls/detail/state/ory/terraform-provider-ory/325?label=) — fix: remove project, workspace, organization, and project config from state when deleted outside Terraform
